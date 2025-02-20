@@ -1,0 +1,1 @@
+sebelum nya pastikan anda sudah menginstal dan menambahkan link json beirkut https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json pada addtional board url dan beberapa extension untuk sensor dht 11 dan esp 32
